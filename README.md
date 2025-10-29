@@ -23,12 +23,13 @@ This repository contains a Jupyter notebook that:
 
 ### Option 1: Binder (Recommended for Demo - No Setup Required)
 
-1. Launch the notebook on mybinder.org (or another working Jupyter environment).
+1. Launch the notebook on mybinder.org by clicking the badge below.
 
    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/4a4c/mtb-recommender-demo/HEAD?urlpath=%2Fdoc%2Ftree%2Frecommender.ipynb)
 
-2. Open the `recommender.ipynb` notebook (this should open automatically if launching the binder from above link).
-3. Run cells in order from top to bottom. If the first cell installs packages, restart the kernel after it finishes and re-run that cell.
+2. Open the `recommender.ipynb` notebook (this should open automatically if launching the binder from above badge).
+3. Run cells in order from top to bottom.
+   - Overview of cells given in **Cell by cell** section below
 
 ### Option 2: Dev Container (For Development in VS Code)
 
@@ -38,7 +39,9 @@ If you have Docker and VS Code with the Dev Containers extension:
 2. Open in VS Code
 3. When prompted, click "Reopen in Container" (or use Command Palette → "Dev Containers: Reopen in Container")
 4. The devcontainer will automatically install all dependencies from `requirements.txt`
-5. Open `recommender.ipynb` and run the cells
+5. Open `recommender.ipynb` notebook
+6. Run cells in order from top to bottom.
+   - Overview of cells given in **Cell by cell** section below
 
 This provides a consistent, isolated development environment with all dependencies pre-configured.
 
@@ -50,12 +53,15 @@ This provides a consistent, isolated development environment with all dependenci
 
 2. **Data generation (brands + synthetic ratings)**
    - Generates a synthetic dataset of user-brand ratings and populates the DataFrame `df`.
+   - Displays generated data for **example users 1,10,50,100**.
 
 3. **Export / summary (optional)**
    - Writes `mtb_ratings.csv` and prints dataset summaries (counts, distribution, ratings per brand).
+   - This can be used to review entire dataset.
 
 4. **Train & recommend (modeling cell)**
-   - Loads `df` into Surprise, splits train/test, trains SVD, and prints sample top‑k recommendations.
+   - Loads `df` into Surprise, splits train/test, and trains SVD.
+   - Displays sample Top-3 recommendations for **example users 1,10,50,100**.
 
 5. **Evaluation (evaluation cell)**
    - Computes RMSE and mean nDCG on the hold-out test set and prints results.
