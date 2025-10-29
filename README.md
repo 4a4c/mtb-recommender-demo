@@ -1,6 +1,8 @@
 # mtb-recommender-demo
 
-Minimal guide to run the `recommender.ipynb` notebook (Binder-first).
+Minimal guide to run the `recommender.ipynb` notebook in mybinder.org.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/4a4c/mtb-recommender-demo/HEAD)
 
 This repository contains a Jupyter notebook that:
 
