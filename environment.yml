@@ -1,14 +1,12 @@
 name: mtb-recommender
 channels:
   - conda-forge
+  - defaults
 dependencies:
-  - python=3.9
+  - python=3.11  # Bump to 3.11 for better compatibility
   - pandas
   - numpy
   - scikit-learn
-  - scikit-surprise
+  - surprise  # This is scikit-surprise from conda-forge
   - jupyter
   - matplotlib
-  - pip
-  - pip:
-      - ndcg  # if not in conda
