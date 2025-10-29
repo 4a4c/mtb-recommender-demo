@@ -13,7 +13,8 @@ This repository contains a Jupyter notebook that:
 ## Quick binder-first workflow
 
 1. Launch the notebook on mybinder.org (or another working Jupyter environment).
-2. Run cells in order from top to bottom. If the first cell installs packages, restart the kernel after it finishes and re-run that cell.
+2. Open the recommender.ipynb notebook.
+3. Run cells in order from top to bottom. If the first cell installs packages, restart the kernel after it finishes and re-run that cell.
 
 ## Cell-by-cell (what to run and why)
 
