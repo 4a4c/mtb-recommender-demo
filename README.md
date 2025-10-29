@@ -21,7 +21,7 @@ This repository contains a Jupyter notebook that:
 
 ## Quick Start Options
 
-### Option 1: Binder (No Setup Required)
+### Option 1: Binder (Recommended for Demo - No Setup Required)
 
 1. Launch the notebook on mybinder.org (or another working Jupyter environment).
 
@@ -30,7 +30,7 @@ This repository contains a Jupyter notebook that:
 2. Open the `recommender.ipynb` notebook (this should open automatically if launching the binder from above link).
 3. Run cells in order from top to bottom. If the first cell installs packages, restart the kernel after it finishes and re-run that cell.
 
-### Option 2: Dev Container (Recommended for Development)
+### Option 2: Dev Container (For Development in VS Code)
 
 If you have Docker and VS Code with the Dev Containers extension:
 
