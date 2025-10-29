@@ -11,4 +11,5 @@ dependencies:
   - pip
   - pip:
     - jupyterlab
+    - ipykernel
     # add any pip-only packages here

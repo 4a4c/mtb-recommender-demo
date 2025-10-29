@@ -1,0 +1,6 @@
+ipykernel
+jupyterlab
+pandas
+numpy<2
+scikit-learn
+scikit-surprise
