@@ -29,7 +29,9 @@ This repository contains a Jupyter notebook that:
   - `scikit-surprise` for recommendation algorithms
   - `scikit-learn` for evaluation metrics
 
-## Quick start with Binder
+## Quick Start Options
+
+### Option 1: Binder (No Setup Required)
 
 1. Launch the notebook on mybinder.org (or another working Jupyter environment).
 
@@ -37,6 +39,18 @@ This repository contains a Jupyter notebook that:
 
 2. Open the `recommender.ipynb` notebook (this should open automatically if launching the binder from above link).
 3. Run cells in order from top to bottom. If the first cell installs packages, restart the kernel after it finishes and re-run that cell.
+
+### Option 2: Dev Container (Recommended for Development)
+
+If you have Docker and VS Code with the Dev Containers extension:
+
+1. Clone this repository
+2. Open in VS Code
+3. When prompted, click "Reopen in Container" (or use Command Palette → "Dev Containers: Reopen in Container")
+4. The devcontainer will automatically install all dependencies from `requirements.txt`
+5. Open `recommender.ipynb` and run the cells
+
+This provides a consistent, isolated development environment with all dependencies pre-configured.
 
 ## Cell by cell (what to run and why)
 
