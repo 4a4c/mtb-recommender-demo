@@ -1,0 +1,14 @@
+name: mtb-recommender
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - scikit-learn
+  - scikit-surprise
+  - jupyter
+  - matplotlib
+  - pip
+  - pip:
+      - ndcg  # if not in conda
