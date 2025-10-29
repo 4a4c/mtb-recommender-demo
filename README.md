@@ -6,17 +6,17 @@ Minimal guide to run the `recommender.ipynb` notebook in mybinder.org.
 
 This repository contains a Jupyter notebook that:
 
-- creates a synthetic mountain-bike-brand ratings dataset,
+- creates a synthetic mountain bike brand ratings dataset,
 - trains an SVD recommender using `scikit-surprise`, and
 - evaluates recommendations (RMSE + mean nDCG).
 
-## Quick binder-first workflow
+## Quick binder first workflow
 
 1. Launch the notebook on mybinder.org (or another working Jupyter environment).
 2. Open the recommender.ipynb notebook.
 3. Run cells in order from top to bottom. If the first cell installs packages, restart the kernel after it finishes and re-run that cell.
 
-## Cell-by-cell (what to run and why)
+## Cell by cell (what to run and why)
 
 1. **Setup / imports (top cell)**
    - Verifies or installs packages in the running kernel and imports core libraries (`pandas`, `numpy`, `surprise`, `scikit-learn`).
