@@ -3,10 +3,9 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.11  # Bump to 3.11 for better compatibility
+  - python=3.11
   - pandas
   - numpy
   - scikit-learn
-  - surprise  # This is scikit-surprise from conda-forge
   - jupyter
   - matplotlib
