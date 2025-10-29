@@ -19,16 +19,6 @@ This repository contains a Jupyter notebook that:
   - nDCG for ranking quality
   - Qualitative analysis of brand associations
 
-## Requirements
-
-- Python 3.8+
-- Jupyter Notebook
-- Key packages:
-  - `pandas` for data handling
-  - `numpy` (1.24.x recommended for compatibility)
-  - `scikit-surprise` for recommendation algorithms
-  - `scikit-learn` for evaluation metrics
-
 ## Quick Start Options
 
 ### Option 1: Binder (No Setup Required)
@@ -85,6 +75,26 @@ The model's performance is evaluated using two key metrics:
    - Range: 0 to 1 (1 = perfect ranking)
    - Target: > 0.5 indicates useful recommendations
    - We report both overall nDCG and nDCG@3 (for top-3 recommendations)
+
+## Requirements
+
+### Manual Installation
+
+- Python 3.8+
+- Jupyter Notebook or JupyterLab
+- Key packages:
+  - `pandas` for data handling
+  - `numpy` (<2.0 for compatibility)
+  - `scikit-surprise` for recommendation algorithms
+  - `scikit-learn` for evaluation metrics
+
+### Automated Installation
+
+Dependencies are automatically managed via:
+- `requirements.txt` (for pip/devcontainer)
+- `environment.yml` (for conda/Binder)
+
+If installing manually: `pip install -r requirements.txt` or `conda env create -f environment.yml`
 
 ## Acknowledgments
 
