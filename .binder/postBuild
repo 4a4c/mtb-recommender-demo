@@ -1,3 +1,0 @@
-#!/bin/bash
-pip install --no-cache-dir --no-deps scikit-surprise
-pip install --no-cache-dir scipy  # Ensure scipy is fresh for nDCG
