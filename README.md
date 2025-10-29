@@ -2,7 +2,7 @@
 
 Minimal guide to run the `recommender.ipynb` notebook in mybinder.org.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/4a4c/mtb-recommender-demo/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/4a4c/mtb-recommender-demo/HEAD?urlpath=%2Fdoc%2Ftree%2Frecommender.ipynb)
 
 This repository contains a Jupyter notebook that:
 
