@@ -1,0 +1,2002 @@
+user_id,brand,rating
+1,Pivot,3
+1,Specialized,4
+1,Canyon,3
+1,Rocky Mountain,3
+1,Transition,3
+2,Canyon,3
+2,Pivot,3
+2,Rocky Mountain,3
+2,Giant,3
+3,Pivot,3
+3,Trek,3
+3,Santa Cruz,4
+4,Canyon,3
+4,Forbidden,2
+4,Specialized,4
+4,Transition,2
+5,Specialized,4
+5,Transition,4
+5,Forbidden,3
+5,Canyon,2
+6,Commencal,3
+6,Transition,3
+6,Rocky Mountain,3
+6,Canyon,3
+7,Santa Cruz,3
+7,Giant,3
+7,Pivot,3
+8,Forbidden,4
+8,Canyon,2
+8,Santa Cruz,4
+8,Trek,3
+9,Giant,3
+9,Transition,3
+9,Specialized,3
+9,Trek,3
+10,Pivot,2
+10,Santa Cruz,4
+10,Specialized,4
+10,Trek,3
+11,Specialized,4
+11,Transition,4
+11,Santa Cruz,3
+11,Canyon,3
+12,Santa Cruz,4
+12,Forbidden,3
+12,Giant,3
+13,Canyon,3
+13,Pivot,3
+13,Commencal,2
+14,Canyon,3
+14,Rocky Mountain,3
+14,Giant,3
+15,Specialized,4
+15,Rocky Mountain,3
+15,Commencal,4
+15,Transition,3
+15,Forbidden,3
+16,Specialized,4
+16,Santa Cruz,3
+16,Canyon,3
+17,Giant,3
+17,Transition,3
+17,Pivot,4
+17,Forbidden,2
+17,Santa Cruz,3
+18,Canyon,4
+18,Rocky Mountain,3
+18,Transition,3
+19,Commencal,3
+19,Giant,3
+19,Santa Cruz,4
+19,Rocky Mountain,3
+19,Transition,3
+20,Rocky Mountain,3
+20,Santa Cruz,3
+20,Forbidden,3
+21,Trek,5
+21,Specialized,3
+21,Santa Cruz,3
+21,Rocky Mountain,3
+21,Forbidden,3
+22,Transition,4
+22,Rocky Mountain,3
+22,Commencal,3
+22,Santa Cruz,3
+22,Giant,3
+23,Giant,3
+23,Trek,4
+23,Canyon,3
+24,Forbidden,3
+24,Trek,4
+24,Specialized,4
+24,Giant,2
+25,Pivot,3
+25,Rocky Mountain,3
+25,Commencal,3
+25,Forbidden,3
+25,Trek,3
+26,Giant,3
+26,Specialized,3
+26,Canyon,2
+26,Forbidden,3
+27,Commencal,3
+27,Giant,3
+27,Forbidden,3
+27,Rocky Mountain,3
+28,Specialized,3
+28,Commencal,3
+28,Pivot,4
+28,Forbidden,3
+29,Transition,3
+29,Santa Cruz,4
+29,Commencal,3
+29,Forbidden,3
+30,Canyon,2
+30,Santa Cruz,3
+30,Trek,3
+31,Forbidden,3
+31,Transition,3
+31,Canyon,2
+32,Specialized,3
+32,Forbidden,3
+32,Commencal,4
+33,Commencal,3
+33,Giant,3
+33,Rocky Mountain,3
+33,Canyon,3
+33,Pivot,4
+34,Pivot,3
+34,Commencal,3
+34,Rocky Mountain,4
+35,Commencal,3
+35,Pivot,3
+35,Giant,3
+35,Forbidden,2
+36,Giant,4
+36,Pivot,2
+36,Rocky Mountain,3
+36,Commencal,4
+36,Canyon,3
+37,Rocky Mountain,3
+37,Transition,3
+37,Giant,3
+37,Santa Cruz,4
+37,Forbidden,3
+38,Pivot,3
+38,Santa Cruz,3
+38,Rocky Mountain,3
+39,Trek,4
+39,Specialized,3
+39,Santa Cruz,3
+39,Pivot,3
+39,Forbidden,3
+40,Forbidden,3
+40,Pivot,4
+40,Trek,3
+40,Specialized,3
+41,Specialized,4
+41,Giant,3
+41,Trek,3
+41,Forbidden,3
+41,Commencal,3
+42,Pivot,3
+42,Canyon,3
+42,Forbidden,2
+43,Santa Cruz,4
+43,Specialized,3
+43,Rocky Mountain,3
+43,Commencal,4
+44,Commencal,4
+44,Trek,3
+44,Santa Cruz,3
+44,Rocky Mountain,3
+44,Canyon,3
+45,Pivot,3
+45,Transition,2
+45,Specialized,4
+45,Giant,2
+46,Commencal,3
+46,Rocky Mountain,4
+46,Trek,3
+47,Giant,3
+47,Trek,4
+47,Commencal,3
+47,Pivot,3
+48,Santa Cruz,3
+48,Canyon,3
+48,Forbidden,3
+49,Forbidden,3
+49,Pivot,3
+49,Trek,3
+49,Specialized,3
+49,Transition,3
+50,Specialized,4
+50,Trek,3
+50,Pivot,4
+50,Giant,4
+51,Specialized,3
+51,Commencal,3
+51,Forbidden,4
+51,Giant,3
+52,Giant,3
+52,Canyon,3
+52,Commencal,4
+53,Transition,4
+53,Rocky Mountain,2
+53,Commencal,3
+54,Santa Cruz,3
+54,Pivot,3
+54,Specialized,4
+55,Forbidden,3
+55,Specialized,3
+55,Pivot,2
+55,Trek,4
+56,Forbidden,4
+56,Trek,3
+56,Rocky Mountain,3
+56,Commencal,3
+57,Santa Cruz,3
+57,Rocky Mountain,2
+57,Pivot,2
+58,Trek,4
+58,Santa Cruz,4
+58,Specialized,2
+58,Giant,3
+59,Trek,3
+59,Transition,3
+59,Commencal,2
+60,Pivot,3
+60,Forbidden,3
+60,Specialized,4
+60,Canyon,2
+61,Transition,3
+61,Trek,2
+61,Commencal,3
+61,Santa Cruz,3
+62,Giant,4
+62,Trek,4
+62,Forbidden,4
+62,Santa Cruz,3
+62,Transition,3
+63,Giant,3
+63,Transition,3
+63,Pivot,3
+63,Santa Cruz,3
+63,Rocky Mountain,3
+64,Transition,3
+64,Canyon,3
+64,Commencal,3
+64,Trek,3
+64,Rocky Mountain,4
+65,Transition,4
+65,Forbidden,3
+65,Canyon,3
+65,Commencal,3
+65,Santa Cruz,4
+66,Specialized,4
+66,Rocky Mountain,3
+66,Trek,4
+67,Santa Cruz,3
+67,Commencal,3
+67,Trek,2
+67,Canyon,2
+67,Rocky Mountain,4
+68,Commencal,3
+68,Pivot,4
+68,Canyon,3
+68,Specialized,4
+68,Giant,3
+69,Santa Cruz,3
+69,Rocky Mountain,3
+69,Transition,5
+70,Giant,3
+70,Specialized,3
+70,Pivot,2
+71,Giant,3
+71,Rocky Mountain,4
+71,Trek,4
+71,Transition,3
+71,Commencal,3
+72,Trek,4
+72,Rocky Mountain,3
+72,Santa Cruz,3
+72,Canyon,3
+72,Giant,3
+73,Transition,3
+73,Pivot,3
+73,Rocky Mountain,3
+73,Canyon,2
+73,Forbidden,2
+74,Santa Cruz,3
+74,Commencal,4
+74,Rocky Mountain,3
+74,Forbidden,3
+74,Giant,3
+75,Santa Cruz,3
+75,Transition,3
+75,Canyon,3
+76,Santa Cruz,5
+76,Commencal,3
+76,Trek,4
+76,Specialized,2
+76,Giant,2
+77,Forbidden,2
+77,Commencal,4
+77,Pivot,3
+77,Rocky Mountain,3
+78,Pivot,4
+78,Specialized,3
+78,Santa Cruz,4
+79,Giant,3
+79,Commencal,3
+79,Specialized,3
+80,Commencal,4
+80,Canyon,3
+80,Forbidden,2
+80,Rocky Mountain,4
+81,Commencal,2
+81,Rocky Mountain,3
+81,Specialized,3
+81,Canyon,2
+82,Forbidden,3
+82,Trek,3
+82,Canyon,3
+82,Rocky Mountain,3
+83,Commencal,3
+83,Forbidden,2
+83,Specialized,4
+84,Transition,3
+84,Specialized,3
+84,Forbidden,3
+85,Transition,4
+85,Trek,3
+85,Pivot,4
+86,Canyon,3
+86,Rocky Mountain,4
+86,Commencal,3
+86,Santa Cruz,4
+87,Transition,3
+87,Commencal,3
+87,Specialized,5
+87,Trek,3
+87,Giant,4
+88,Trek,3
+88,Santa Cruz,3
+88,Transition,3
+89,Commencal,2
+89,Specialized,3
+89,Pivot,4
+89,Rocky Mountain,3
+89,Canyon,3
+90,Canyon,3
+90,Trek,4
+90,Transition,3
+90,Rocky Mountain,3
+90,Santa Cruz,3
+91,Specialized,4
+91,Forbidden,4
+91,Giant,4
+91,Commencal,2
+92,Specialized,4
+92,Pivot,3
+92,Forbidden,4
+93,Trek,3
+93,Specialized,3
+93,Forbidden,2
+94,Transition,4
+94,Commencal,3
+94,Canyon,2
+94,Santa Cruz,2
+94,Forbidden,3
+95,Rocky Mountain,4
+95,Transition,3
+95,Canyon,3
+95,Specialized,4
+95,Giant,3
+96,Specialized,4
+96,Rocky Mountain,4
+96,Pivot,3
+96,Santa Cruz,3
+96,Trek,4
+97,Forbidden,3
+97,Trek,4
+97,Specialized,4
+97,Rocky Mountain,3
+98,Rocky Mountain,3
+98,Commencal,3
+98,Pivot,3
+99,Canyon,3
+99,Rocky Mountain,3
+99,Santa Cruz,4
+99,Trek,3
+99,Commencal,3
+100,Commencal,4
+100,Giant,3
+100,Canyon,3
+100,Specialized,3
+100,Transition,4
+101,Pivot,4
+101,Rocky Mountain,3
+101,Trek,3
+101,Specialized,3
+102,Forbidden,3
+102,Canyon,3
+102,Specialized,3
+103,Specialized,4
+103,Forbidden,3
+103,Transition,3
+103,Commencal,3
+103,Rocky Mountain,3
+104,Specialized,4
+104,Trek,3
+104,Commencal,2
+104,Canyon,3
+104,Rocky Mountain,4
+105,Transition,4
+105,Forbidden,3
+105,Rocky Mountain,3
+105,Giant,3
+106,Canyon,3
+106,Trek,3
+106,Giant,2
+106,Santa Cruz,3
+106,Commencal,4
+107,Commencal,3
+107,Specialized,4
+107,Forbidden,3
+108,Forbidden,4
+108,Commencal,3
+108,Canyon,4
+108,Trek,5
+108,Transition,2
+109,Rocky Mountain,3
+109,Canyon,4
+109,Pivot,3
+109,Trek,3
+110,Giant,3
+110,Transition,3
+110,Santa Cruz,3
+110,Commencal,3
+111,Trek,4
+111,Canyon,4
+111,Transition,3
+111,Commencal,3
+111,Rocky Mountain,3
+112,Commencal,3
+112,Transition,3
+112,Giant,3
+113,Canyon,3
+113,Transition,3
+113,Commencal,4
+114,Giant,4
+114,Specialized,4
+114,Transition,3
+114,Rocky Mountain,4
+114,Pivot,4
+115,Forbidden,3
+115,Pivot,3
+115,Commencal,3
+115,Giant,4
+116,Forbidden,3
+116,Rocky Mountain,3
+116,Specialized,3
+116,Trek,3
+116,Giant,4
+117,Specialized,3
+117,Transition,5
+117,Santa Cruz,4
+117,Rocky Mountain,4
+117,Pivot,3
+118,Transition,4
+118,Specialized,3
+118,Canyon,4
+118,Rocky Mountain,4
+119,Canyon,2
+119,Commencal,3
+119,Giant,3
+119,Rocky Mountain,3
+119,Forbidden,3
+120,Pivot,3
+120,Commencal,4
+120,Giant,3
+120,Transition,3
+121,Commencal,3
+121,Specialized,3
+121,Trek,3
+122,Santa Cruz,4
+122,Giant,2
+122,Transition,4
+122,Canyon,4
+122,Rocky Mountain,4
+123,Transition,3
+123,Forbidden,2
+123,Rocky Mountain,3
+123,Canyon,3
+124,Pivot,3
+124,Canyon,3
+124,Commencal,4
+124,Specialized,2
+125,Specialized,5
+125,Transition,3
+125,Santa Cruz,4
+125,Commencal,3
+126,Commencal,3
+126,Forbidden,3
+126,Trek,3
+127,Giant,3
+127,Santa Cruz,4
+127,Commencal,3
+127,Pivot,4
+128,Transition,3
+128,Commencal,3
+128,Trek,3
+128,Giant,3
+129,Commencal,3
+129,Rocky Mountain,3
+129,Specialized,3
+129,Giant,3
+130,Canyon,3
+130,Forbidden,2
+130,Pivot,4
+130,Transition,4
+130,Santa Cruz,3
+131,Trek,3
+131,Canyon,3
+131,Specialized,3
+131,Giant,3
+131,Rocky Mountain,3
+132,Commencal,3
+132,Specialized,4
+132,Giant,3
+132,Transition,4
+132,Canyon,2
+133,Commencal,3
+133,Forbidden,3
+133,Specialized,4
+134,Transition,3
+134,Commencal,3
+134,Canyon,3
+134,Giant,3
+134,Specialized,3
+135,Transition,3
+135,Santa Cruz,3
+135,Giant,4
+136,Trek,3
+136,Transition,4
+136,Pivot,3
+137,Giant,3
+137,Commencal,3
+137,Pivot,3
+137,Canyon,3
+137,Transition,3
+138,Forbidden,2
+138,Santa Cruz,4
+138,Canyon,3
+139,Forbidden,3
+139,Specialized,4
+139,Trek,4
+140,Giant,3
+140,Specialized,3
+140,Commencal,3
+140,Canyon,3
+140,Rocky Mountain,3
+141,Commencal,3
+141,Canyon,2
+141,Rocky Mountain,2
+142,Giant,4
+142,Transition,4
+142,Specialized,3
+142,Canyon,2
+142,Commencal,4
+143,Rocky Mountain,3
+143,Specialized,4
+143,Santa Cruz,4
+144,Specialized,3
+144,Canyon,3
+144,Transition,4
+145,Transition,4
+145,Pivot,3
+145,Canyon,3
+145,Commencal,3
+146,Commencal,2
+146,Specialized,3
+146,Giant,3
+146,Forbidden,4
+146,Transition,3
+147,Santa Cruz,4
+147,Canyon,3
+147,Giant,3
+147,Commencal,3
+148,Rocky Mountain,3
+148,Canyon,4
+148,Transition,3
+148,Trek,3
+149,Canyon,2
+149,Transition,3
+149,Forbidden,3
+150,Specialized,3
+150,Trek,3
+150,Canyon,2
+151,Giant,3
+151,Santa Cruz,3
+151,Trek,3
+151,Pivot,3
+152,Transition,4
+152,Canyon,3
+152,Santa Cruz,4
+152,Commencal,3
+152,Pivot,3
+153,Trek,2
+153,Specialized,3
+153,Transition,4
+153,Canyon,2
+154,Transition,3
+154,Pivot,3
+154,Trek,3
+155,Specialized,4
+155,Transition,3
+155,Commencal,3
+155,Pivot,4
+155,Santa Cruz,3
+156,Trek,4
+156,Transition,3
+156,Santa Cruz,3
+156,Giant,3
+157,Trek,3
+157,Commencal,4
+157,Giant,3
+158,Santa Cruz,3
+158,Commencal,3
+158,Trek,4
+159,Specialized,3
+159,Forbidden,3
+159,Trek,3
+159,Rocky Mountain,3
+159,Pivot,3
+160,Trek,4
+160,Giant,3
+160,Rocky Mountain,3
+161,Rocky Mountain,4
+161,Pivot,3
+161,Specialized,4
+161,Commencal,3
+162,Giant,3
+162,Commencal,4
+162,Transition,3
+162,Trek,3
+163,Pivot,3
+163,Rocky Mountain,4
+163,Commencal,3
+163,Trek,4
+164,Forbidden,3
+164,Giant,3
+164,Santa Cruz,3
+164,Specialized,3
+165,Santa Cruz,4
+165,Canyon,2
+165,Commencal,3
+165,Specialized,4
+165,Transition,4
+166,Pivot,4
+166,Transition,3
+166,Canyon,3
+166,Trek,3
+166,Specialized,4
+167,Pivot,4
+167,Transition,3
+167,Canyon,3
+167,Rocky Mountain,3
+167,Trek,4
+168,Forbidden,4
+168,Specialized,4
+168,Commencal,3
+168,Trek,3
+168,Santa Cruz,3
+169,Commencal,3
+169,Pivot,3
+169,Transition,3
+170,Rocky Mountain,3
+170,Specialized,4
+170,Canyon,4
+170,Giant,4
+171,Canyon,3
+171,Specialized,4
+171,Santa Cruz,3
+171,Forbidden,3
+172,Santa Cruz,4
+172,Canyon,3
+172,Transition,3
+172,Forbidden,3
+172,Trek,4
+173,Trek,3
+173,Santa Cruz,3
+173,Commencal,3
+173,Forbidden,3
+174,Commencal,2
+174,Specialized,2
+174,Transition,3
+175,Santa Cruz,3
+175,Transition,4
+175,Forbidden,3
+176,Trek,3
+176,Transition,4
+176,Commencal,4
+176,Canyon,2
+177,Specialized,3
+177,Commencal,2
+177,Giant,3
+177,Trek,4
+177,Transition,3
+178,Santa Cruz,3
+178,Pivot,3
+178,Trek,3
+178,Canyon,4
+179,Canyon,3
+179,Giant,3
+179,Rocky Mountain,3
+180,Trek,2
+180,Rocky Mountain,3
+180,Transition,4
+181,Commencal,2
+181,Specialized,3
+181,Giant,3
+181,Canyon,4
+181,Rocky Mountain,4
+182,Transition,4
+182,Specialized,3
+182,Santa Cruz,4
+182,Commencal,3
+182,Trek,4
+183,Giant,3
+183,Canyon,2
+183,Rocky Mountain,3
+183,Santa Cruz,3
+184,Rocky Mountain,4
+184,Canyon,2
+184,Giant,2
+185,Trek,4
+185,Specialized,3
+185,Canyon,3
+185,Pivot,3
+186,Canyon,3
+186,Santa Cruz,3
+186,Specialized,4
+186,Commencal,3
+186,Transition,3
+187,Canyon,3
+187,Specialized,3
+187,Rocky Mountain,3
+188,Pivot,3
+188,Commencal,3
+188,Santa Cruz,3
+188,Rocky Mountain,2
+189,Commencal,4
+189,Giant,3
+189,Specialized,3
+189,Rocky Mountain,3
+190,Canyon,2
+190,Santa Cruz,3
+190,Transition,3
+190,Trek,3
+191,Canyon,3
+191,Santa Cruz,4
+191,Giant,3
+191,Rocky Mountain,3
+192,Rocky Mountain,3
+192,Canyon,3
+192,Specialized,4
+193,Transition,4
+193,Giant,3
+193,Commencal,3
+193,Specialized,3
+194,Trek,4
+194,Forbidden,3
+194,Giant,3
+194,Santa Cruz,4
+195,Canyon,3
+195,Santa Cruz,3
+195,Forbidden,3
+195,Specialized,3
+195,Giant,3
+196,Commencal,4
+196,Pivot,3
+196,Transition,3
+196,Canyon,3
+196,Rocky Mountain,4
+197,Santa Cruz,3
+197,Forbidden,3
+197,Rocky Mountain,3
+198,Rocky Mountain,3
+198,Santa Cruz,3
+198,Canyon,3
+198,Commencal,3
+199,Trek,3
+199,Rocky Mountain,3
+199,Canyon,3
+199,Giant,3
+199,Specialized,2
+200,Rocky Mountain,3
+200,Commencal,4
+200,Canyon,2
+200,Giant,2
+201,Giant,2
+201,Santa Cruz,3
+201,Rocky Mountain,3
+202,Santa Cruz,3
+202,Transition,3
+202,Trek,4
+202,Rocky Mountain,3
+203,Rocky Mountain,3
+203,Santa Cruz,3
+203,Pivot,4
+203,Canyon,3
+203,Giant,3
+204,Forbidden,3
+204,Transition,2
+204,Pivot,3
+204,Giant,3
+205,Trek,3
+205,Commencal,4
+205,Pivot,3
+206,Giant,3
+206,Pivot,3
+206,Santa Cruz,3
+207,Santa Cruz,4
+207,Rocky Mountain,3
+207,Giant,3
+207,Canyon,3
+208,Commencal,3
+208,Canyon,3
+208,Transition,4
+209,Giant,3
+209,Canyon,3
+209,Pivot,3
+209,Forbidden,3
+210,Canyon,2
+210,Santa Cruz,3
+210,Transition,2
+210,Pivot,4
+211,Transition,3
+211,Commencal,3
+211,Forbidden,3
+211,Rocky Mountain,2
+211,Trek,3
+212,Pivot,3
+212,Transition,4
+212,Specialized,3
+212,Trek,3
+213,Transition,4
+213,Canyon,3
+213,Pivot,4
+213,Santa Cruz,3
+214,Santa Cruz,3
+214,Commencal,3
+214,Canyon,3
+215,Commencal,3
+215,Giant,3
+215,Rocky Mountain,3
+215,Forbidden,3
+215,Canyon,3
+216,Trek,3
+216,Specialized,4
+216,Forbidden,3
+216,Rocky Mountain,3
+217,Commencal,3
+217,Forbidden,2
+217,Giant,4
+218,Rocky Mountain,4
+218,Trek,4
+218,Pivot,3
+218,Forbidden,4
+218,Giant,3
+219,Transition,3
+219,Santa Cruz,3
+219,Canyon,4
+219,Rocky Mountain,4
+219,Pivot,3
+220,Trek,4
+220,Canyon,3
+220,Rocky Mountain,4
+220,Commencal,3
+221,Commencal,3
+221,Santa Cruz,3
+221,Transition,3
+222,Commencal,2
+222,Santa Cruz,3
+222,Giant,3
+222,Specialized,3
+223,Canyon,3
+223,Specialized,3
+223,Transition,3
+223,Rocky Mountain,2
+224,Santa Cruz,3
+224,Trek,3
+224,Canyon,3
+225,Specialized,4
+225,Transition,3
+225,Santa Cruz,3
+225,Giant,3
+226,Transition,3
+226,Specialized,3
+226,Pivot,3
+226,Giant,4
+227,Transition,3
+227,Commencal,3
+227,Rocky Mountain,3
+227,Trek,3
+227,Giant,3
+228,Forbidden,3
+228,Rocky Mountain,3
+228,Specialized,4
+228,Pivot,3
+228,Giant,2
+229,Canyon,3
+229,Trek,3
+229,Specialized,3
+229,Transition,3
+229,Pivot,3
+230,Forbidden,2
+230,Canyon,3
+230,Rocky Mountain,2
+230,Pivot,2
+230,Trek,4
+231,Canyon,3
+231,Rocky Mountain,2
+231,Giant,4
+231,Trek,3
+231,Forbidden,3
+232,Specialized,3
+232,Canyon,3
+232,Santa Cruz,3
+232,Commencal,3
+233,Transition,3
+233,Specialized,3
+233,Commencal,3
+234,Rocky Mountain,2
+234,Santa Cruz,3
+234,Commencal,3
+234,Transition,3
+234,Giant,4
+235,Giant,3
+235,Pivot,3
+235,Canyon,3
+235,Rocky Mountain,3
+235,Transition,3
+236,Pivot,4
+236,Santa Cruz,4
+236,Forbidden,3
+237,Commencal,4
+237,Rocky Mountain,3
+237,Santa Cruz,3
+238,Specialized,3
+238,Canyon,3
+238,Pivot,3
+238,Transition,3
+239,Forbidden,3
+239,Trek,4
+239,Specialized,3
+239,Pivot,3
+240,Santa Cruz,3
+240,Giant,4
+240,Rocky Mountain,4
+241,Pivot,3
+241,Canyon,4
+241,Forbidden,3
+241,Santa Cruz,3
+242,Rocky Mountain,3
+242,Canyon,3
+242,Commencal,3
+242,Specialized,4
+243,Specialized,4
+243,Rocky Mountain,4
+243,Trek,4
+243,Canyon,3
+243,Forbidden,3
+244,Commencal,3
+244,Specialized,4
+244,Canyon,3
+244,Transition,3
+245,Forbidden,4
+245,Specialized,3
+245,Pivot,3
+246,Santa Cruz,4
+246,Trek,3
+246,Specialized,3
+246,Canyon,3
+247,Trek,2
+247,Canyon,4
+247,Pivot,3
+247,Commencal,3
+247,Rocky Mountain,2
+248,Commencal,4
+248,Rocky Mountain,3
+248,Transition,4
+249,Transition,3
+249,Rocky Mountain,4
+249,Trek,4
+250,Rocky Mountain,4
+250,Commencal,2
+250,Pivot,3
+250,Specialized,3
+251,Forbidden,3
+251,Canyon,3
+251,Pivot,3
+251,Specialized,4
+251,Giant,3
+252,Forbidden,3
+252,Pivot,2
+252,Commencal,3
+252,Canyon,3
+253,Rocky Mountain,4
+253,Specialized,4
+253,Santa Cruz,3
+254,Trek,4
+254,Canyon,3
+254,Pivot,4
+254,Santa Cruz,4
+255,Giant,4
+255,Trek,4
+255,Commencal,2
+255,Transition,4
+255,Forbidden,3
+256,Santa Cruz,3
+256,Canyon,3
+256,Commencal,3
+257,Canyon,3
+257,Pivot,3
+257,Trek,3
+257,Giant,3
+258,Canyon,4
+258,Forbidden,3
+258,Pivot,3
+259,Santa Cruz,4
+259,Giant,3
+259,Trek,4
+259,Commencal,3
+259,Canyon,2
+260,Specialized,4
+260,Giant,3
+260,Santa Cruz,4
+260,Transition,3
+260,Pivot,3
+261,Trek,3
+261,Giant,3
+261,Specialized,3
+261,Commencal,2
+261,Pivot,3
+262,Canyon,3
+262,Rocky Mountain,3
+262,Commencal,3
+262,Trek,3
+263,Giant,2
+263,Specialized,3
+263,Santa Cruz,3
+264,Transition,4
+264,Trek,3
+264,Forbidden,3
+264,Rocky Mountain,4
+265,Trek,4
+265,Giant,4
+265,Commencal,3
+265,Canyon,3
+265,Pivot,3
+266,Rocky Mountain,3
+266,Santa Cruz,3
+266,Forbidden,3
+266,Giant,4
+266,Commencal,4
+267,Rocky Mountain,3
+267,Santa Cruz,3
+267,Giant,2
+267,Trek,4
+268,Commencal,3
+268,Transition,3
+268,Rocky Mountain,3
+268,Canyon,3
+268,Specialized,4
+269,Rocky Mountain,3
+269,Trek,4
+269,Transition,3
+269,Giant,3
+270,Giant,3
+270,Santa Cruz,3
+270,Rocky Mountain,3
+270,Pivot,4
+270,Canyon,3
+271,Forbidden,3
+271,Rocky Mountain,2
+271,Santa Cruz,4
+271,Canyon,2
+271,Transition,2
+272,Commencal,4
+272,Specialized,3
+272,Giant,4
+272,Forbidden,2
+272,Trek,3
+273,Commencal,2
+273,Trek,3
+273,Rocky Mountain,4
+273,Giant,3
+273,Canyon,4
+274,Commencal,3
+274,Giant,3
+274,Specialized,3
+275,Canyon,3
+275,Specialized,4
+275,Commencal,2
+276,Pivot,4
+276,Forbidden,3
+276,Transition,4
+276,Rocky Mountain,3
+277,Pivot,3
+277,Transition,4
+277,Canyon,3
+277,Trek,3
+277,Santa Cruz,4
+278,Transition,3
+278,Santa Cruz,5
+278,Trek,3
+278,Pivot,3
+279,Forbidden,3
+279,Giant,3
+279,Santa Cruz,4
+279,Pivot,3
+280,Commencal,3
+280,Transition,4
+280,Trek,3
+280,Pivot,3
+280,Forbidden,3
+281,Santa Cruz,3
+281,Specialized,4
+281,Forbidden,3
+281,Giant,3
+281,Trek,4
+282,Forbidden,3
+282,Trek,4
+282,Pivot,3
+282,Commencal,3
+282,Transition,3
+283,Commencal,3
+283,Pivot,2
+283,Trek,3
+283,Transition,3
+284,Transition,3
+284,Santa Cruz,3
+284,Rocky Mountain,4
+284,Canyon,4
+284,Forbidden,3
+285,Trek,4
+285,Forbidden,3
+285,Rocky Mountain,3
+285,Pivot,3
+286,Santa Cruz,4
+286,Transition,2
+286,Giant,3
+286,Specialized,3
+287,Specialized,4
+287,Santa Cruz,3
+287,Canyon,4
+287,Giant,3
+288,Transition,4
+288,Canyon,4
+288,Pivot,4
+289,Santa Cruz,3
+289,Rocky Mountain,3
+289,Specialized,4
+290,Commencal,3
+290,Forbidden,4
+290,Pivot,4
+291,Canyon,3
+291,Specialized,4
+291,Rocky Mountain,4
+291,Pivot,3
+291,Trek,3
+292,Giant,3
+292,Canyon,3
+292,Trek,4
+292,Transition,3
+292,Commencal,2
+293,Commencal,3
+293,Specialized,3
+293,Transition,4
+293,Forbidden,3
+293,Canyon,3
+294,Specialized,3
+294,Commencal,4
+294,Santa Cruz,3
+294,Trek,3
+294,Rocky Mountain,3
+295,Canyon,4
+295,Rocky Mountain,4
+295,Forbidden,2
+296,Forbidden,3
+296,Canyon,4
+296,Santa Cruz,3
+297,Trek,3
+297,Specialized,3
+297,Commencal,3
+297,Santa Cruz,4
+298,Giant,4
+298,Canyon,3
+298,Specialized,4
+299,Commencal,4
+299,Forbidden,4
+299,Specialized,3
+300,Giant,4
+300,Pivot,3
+300,Commencal,2
+300,Transition,4
+300,Santa Cruz,3
+301,Trek,3
+301,Canyon,3
+301,Specialized,4
+301,Commencal,4
+302,Rocky Mountain,4
+302,Canyon,4
+302,Transition,4
+302,Commencal,3
+302,Specialized,3
+303,Pivot,4
+303,Rocky Mountain,4
+303,Specialized,4
+303,Santa Cruz,3
+303,Giant,3
+304,Trek,3
+304,Forbidden,4
+304,Canyon,3
+305,Canyon,2
+305,Commencal,3
+305,Specialized,3
+305,Transition,3
+306,Transition,4
+306,Specialized,4
+306,Commencal,4
+307,Rocky Mountain,3
+307,Specialized,3
+307,Forbidden,4
+307,Canyon,3
+308,Transition,3
+308,Trek,3
+308,Commencal,3
+308,Rocky Mountain,3
+309,Canyon,3
+309,Giant,2
+309,Santa Cruz,3
+310,Trek,3
+310,Rocky Mountain,3
+310,Santa Cruz,4
+311,Rocky Mountain,3
+311,Canyon,3
+311,Santa Cruz,3
+311,Specialized,4
+311,Trek,3
+312,Santa Cruz,3
+312,Giant,3
+312,Pivot,3
+312,Rocky Mountain,3
+313,Santa Cruz,4
+313,Transition,3
+313,Canyon,3
+313,Specialized,3
+314,Trek,3
+314,Pivot,4
+314,Giant,3
+315,Pivot,3
+315,Santa Cruz,4
+315,Transition,3
+315,Canyon,3
+315,Commencal,4
+316,Santa Cruz,3
+316,Pivot,4
+316,Commencal,3
+316,Trek,3
+317,Santa Cruz,3
+317,Giant,2
+317,Transition,3
+317,Forbidden,3
+318,Commencal,3
+318,Canyon,3
+318,Trek,4
+318,Giant,3
+318,Rocky Mountain,4
+319,Trek,3
+319,Rocky Mountain,3
+319,Transition,2
+319,Specialized,3
+319,Giant,2
+320,Canyon,3
+320,Commencal,3
+320,Giant,4
+320,Santa Cruz,4
+320,Trek,3
+321,Forbidden,3
+321,Pivot,3
+321,Giant,3
+321,Santa Cruz,3
+322,Rocky Mountain,3
+322,Giant,3
+322,Specialized,3
+323,Transition,2
+323,Rocky Mountain,3
+323,Commencal,4
+323,Giant,4
+324,Transition,3
+324,Giant,3
+324,Canyon,2
+324,Santa Cruz,3
+324,Pivot,4
+325,Transition,4
+325,Santa Cruz,3
+325,Forbidden,4
+325,Commencal,3
+326,Specialized,4
+326,Commencal,3
+326,Canyon,3
+326,Forbidden,3
+326,Rocky Mountain,3
+327,Commencal,3
+327,Canyon,3
+327,Rocky Mountain,3
+328,Transition,3
+328,Specialized,3
+328,Pivot,2
+328,Santa Cruz,3
+328,Trek,3
+329,Rocky Mountain,3
+329,Trek,3
+329,Forbidden,3
+330,Rocky Mountain,3
+330,Forbidden,3
+330,Trek,4
+331,Commencal,3
+331,Specialized,4
+331,Rocky Mountain,2
+331,Santa Cruz,3
+331,Canyon,3
+332,Transition,3
+332,Giant,3
+332,Rocky Mountain,4
+332,Forbidden,3
+333,Commencal,3
+333,Giant,3
+333,Santa Cruz,4
+333,Rocky Mountain,3
+333,Pivot,3
+334,Specialized,4
+334,Santa Cruz,3
+334,Transition,3
+335,Trek,3
+335,Canyon,3
+335,Giant,2
+336,Trek,4
+336,Specialized,4
+336,Forbidden,3
+336,Transition,3
+337,Giant,3
+337,Transition,3
+337,Specialized,4
+338,Santa Cruz,3
+338,Pivot,3
+338,Canyon,3
+338,Giant,3
+338,Commencal,4
+339,Pivot,2
+339,Commencal,2
+339,Giant,3
+340,Giant,3
+340,Forbidden,4
+340,Transition,3
+340,Commencal,4
+340,Santa Cruz,3
+341,Rocky Mountain,3
+341,Canyon,3
+341,Santa Cruz,3
+341,Trek,4
+342,Giant,3
+342,Specialized,4
+342,Canyon,3
+342,Transition,3
+343,Transition,3
+343,Santa Cruz,3
+343,Canyon,3
+343,Pivot,4
+343,Trek,3
+344,Santa Cruz,4
+344,Transition,3
+344,Pivot,2
+344,Specialized,4
+345,Commencal,3
+345,Pivot,3
+345,Transition,4
+346,Specialized,3
+346,Pivot,3
+346,Forbidden,3
+346,Trek,3
+347,Transition,3
+347,Pivot,3
+347,Rocky Mountain,4
+347,Giant,3
+348,Trek,2
+348,Santa Cruz,3
+348,Forbidden,4
+348,Pivot,2
+348,Commencal,3
+349,Trek,4
+349,Santa Cruz,5
+349,Pivot,3
+350,Canyon,2
+350,Commencal,3
+350,Transition,3
+350,Trek,3
+350,Pivot,3
+351,Trek,3
+351,Rocky Mountain,3
+351,Pivot,3
+352,Pivot,4
+352,Transition,4
+352,Giant,3
+352,Rocky Mountain,4
+353,Rocky Mountain,3
+353,Giant,3
+353,Canyon,4
+353,Commencal,3
+353,Specialized,2
+354,Specialized,3
+354,Transition,4
+354,Giant,3
+355,Commencal,4
+355,Santa Cruz,3
+355,Trek,3
+355,Specialized,3
+356,Transition,3
+356,Forbidden,2
+356,Santa Cruz,3
+357,Santa Cruz,4
+357,Giant,2
+357,Canyon,4
+357,Specialized,4
+357,Commencal,4
+358,Santa Cruz,3
+358,Canyon,3
+358,Giant,3
+359,Forbidden,3
+359,Giant,2
+359,Santa Cruz,4
+360,Rocky Mountain,4
+360,Santa Cruz,4
+360,Commencal,3
+361,Commencal,3
+361,Santa Cruz,2
+361,Trek,3
+361,Specialized,4
+362,Pivot,4
+362,Forbidden,3
+362,Specialized,3
+362,Trek,4
+363,Commencal,3
+363,Giant,3
+363,Specialized,4
+363,Forbidden,3
+363,Trek,4
+364,Trek,3
+364,Transition,4
+364,Santa Cruz,3
+365,Giant,3
+365,Forbidden,4
+365,Canyon,2
+365,Commencal,4
+365,Trek,3
+366,Forbidden,4
+366,Giant,3
+366,Santa Cruz,3
+367,Rocky Mountain,3
+367,Specialized,4
+367,Transition,5
+367,Commencal,3
+368,Forbidden,3
+368,Canyon,3
+368,Giant,4
+369,Commencal,4
+369,Specialized,4
+369,Rocky Mountain,3
+370,Forbidden,4
+370,Rocky Mountain,3
+370,Canyon,3
+370,Commencal,3
+371,Trek,4
+371,Transition,4
+371,Giant,2
+372,Rocky Mountain,3
+372,Transition,3
+372,Pivot,3
+372,Trek,4
+373,Canyon,3
+373,Specialized,3
+373,Giant,2
+374,Forbidden,2
+374,Pivot,2
+374,Transition,3
+374,Commencal,3
+374,Rocky Mountain,3
+375,Trek,3
+375,Canyon,2
+375,Transition,4
+376,Specialized,2
+376,Rocky Mountain,4
+376,Pivot,4
+376,Forbidden,3
+376,Commencal,3
+377,Pivot,3
+377,Commencal,3
+377,Santa Cruz,4
+378,Pivot,3
+378,Rocky Mountain,3
+378,Canyon,3
+378,Transition,3
+379,Canyon,4
+379,Santa Cruz,3
+379,Forbidden,4
+379,Pivot,3
+380,Giant,4
+380,Pivot,3
+380,Transition,3
+381,Transition,3
+381,Specialized,3
+381,Forbidden,3
+382,Trek,3
+382,Canyon,3
+382,Specialized,3
+382,Giant,2
+382,Pivot,3
+383,Rocky Mountain,3
+383,Specialized,4
+383,Canyon,3
+383,Giant,3
+383,Commencal,3
+384,Specialized,4
+384,Santa Cruz,4
+384,Transition,3
+384,Canyon,3
+384,Rocky Mountain,2
+385,Trek,3
+385,Specialized,3
+385,Commencal,2
+385,Santa Cruz,4
+385,Transition,4
+386,Specialized,4
+386,Giant,3
+386,Canyon,2
+386,Trek,3
+387,Transition,2
+387,Santa Cruz,3
+387,Canyon,3
+388,Forbidden,3
+388,Specialized,3
+388,Rocky Mountain,3
+389,Pivot,3
+389,Forbidden,2
+389,Commencal,3
+389,Canyon,3
+389,Transition,4
+390,Rocky Mountain,2
+390,Trek,3
+390,Santa Cruz,3
+390,Giant,3
+390,Specialized,4
+391,Rocky Mountain,4
+391,Forbidden,4
+391,Trek,3
+392,Transition,3
+392,Canyon,3
+392,Pivot,2
+393,Transition,4
+393,Commencal,3
+393,Forbidden,3
+394,Transition,4
+394,Pivot,4
+394,Specialized,3
+394,Santa Cruz,3
+394,Rocky Mountain,3
+395,Commencal,3
+395,Trek,3
+395,Forbidden,4
+395,Specialized,4
+395,Transition,3
+396,Forbidden,3
+396,Rocky Mountain,4
+396,Specialized,3
+396,Giant,3
+397,Giant,3
+397,Trek,3
+397,Santa Cruz,3
+397,Forbidden,3
+397,Specialized,3
+398,Giant,3
+398,Rocky Mountain,3
+398,Pivot,3
+398,Specialized,3
+398,Commencal,3
+399,Canyon,4
+399,Specialized,4
+399,Rocky Mountain,3
+400,Santa Cruz,4
+400,Rocky Mountain,4
+400,Canyon,3
+400,Giant,3
+401,Santa Cruz,3
+401,Giant,4
+401,Commencal,3
+401,Pivot,3
+402,Rocky Mountain,3
+402,Canyon,4
+402,Santa Cruz,3
+403,Specialized,4
+403,Giant,4
+403,Commencal,3
+404,Commencal,3
+404,Trek,2
+404,Canyon,3
+404,Santa Cruz,3
+404,Specialized,3
+405,Rocky Mountain,3
+405,Giant,3
+405,Trek,4
+406,Rocky Mountain,2
+406,Forbidden,3
+406,Specialized,3
+407,Santa Cruz,4
+407,Forbidden,3
+407,Transition,5
+407,Trek,4
+408,Forbidden,5
+408,Trek,3
+408,Specialized,4
+408,Commencal,3
+409,Pivot,4
+409,Transition,4
+409,Rocky Mountain,3
+410,Trek,3
+410,Pivot,4
+410,Forbidden,3
+411,Transition,3
+411,Giant,3
+411,Canyon,4
+411,Trek,4
+412,Santa Cruz,3
+412,Giant,3
+412,Transition,3
+412,Trek,3
+412,Rocky Mountain,2
+413,Forbidden,3
+413,Rocky Mountain,3
+413,Commencal,3
+413,Santa Cruz,3
+414,Commencal,3
+414,Giant,2
+414,Santa Cruz,3
+414,Trek,4
+415,Giant,3
+415,Canyon,3
+415,Transition,3
+415,Commencal,2
+415,Rocky Mountain,4
+416,Trek,2
+416,Canyon,3
+416,Rocky Mountain,4
+416,Pivot,3
+416,Specialized,3
+417,Rocky Mountain,3
+417,Trek,4
+417,Canyon,3
+417,Forbidden,3
+418,Trek,4
+418,Commencal,4
+418,Transition,4
+419,Trek,2
+419,Forbidden,2
+419,Commencal,4
+419,Giant,3
+419,Pivot,3
+420,Giant,4
+420,Pivot,3
+420,Commencal,3
+421,Pivot,2
+421,Forbidden,3
+421,Specialized,3
+421,Transition,4
+422,Santa Cruz,3
+422,Transition,3
+422,Trek,3
+423,Pivot,3
+423,Transition,4
+423,Canyon,2
+423,Santa Cruz,3
+424,Rocky Mountain,3
+424,Transition,3
+424,Canyon,4
+424,Forbidden,4
+425,Pivot,4
+425,Forbidden,2
+425,Canyon,3
+426,Santa Cruz,4
+426,Giant,4
+426,Commencal,3
+427,Transition,3
+427,Santa Cruz,3
+427,Specialized,4
+427,Rocky Mountain,3
+427,Canyon,4
+428,Commencal,3
+428,Forbidden,3
+428,Canyon,3
+428,Giant,3
+429,Giant,3
+429,Transition,4
+429,Commencal,3
+430,Commencal,3
+430,Rocky Mountain,2
+430,Transition,4
+430,Specialized,3
+431,Giant,3
+431,Pivot,3
+431,Specialized,4
+431,Commencal,4
+431,Canyon,3
+432,Santa Cruz,2
+432,Specialized,3
+432,Canyon,4
+432,Commencal,3
+432,Rocky Mountain,4
+433,Forbidden,3
+433,Trek,2
+433,Pivot,3
+434,Specialized,4
+434,Giant,3
+434,Commencal,3
+434,Transition,5
+434,Forbidden,4
+435,Forbidden,3
+435,Commencal,3
+435,Transition,3
+435,Rocky Mountain,3
+436,Pivot,3
+436,Giant,3
+436,Rocky Mountain,3
+436,Specialized,3
+436,Trek,3
+437,Rocky Mountain,4
+437,Specialized,4
+437,Transition,3
+438,Forbidden,3
+438,Transition,4
+438,Specialized,5
+438,Giant,3
+439,Canyon,3
+439,Giant,3
+439,Pivot,3
+439,Commencal,3
+440,Forbidden,3
+440,Commencal,3
+440,Canyon,4
+441,Transition,3
+441,Rocky Mountain,4
+441,Commencal,3
+442,Specialized,3
+442,Forbidden,3
+442,Trek,3
+442,Rocky Mountain,3
+443,Forbidden,3
+443,Specialized,4
+443,Trek,3
+443,Canyon,3
+444,Santa Cruz,3
+444,Giant,3
+444,Transition,3
+445,Specialized,4
+445,Canyon,3
+445,Pivot,3
+445,Giant,3
+446,Santa Cruz,3
+446,Trek,3
+446,Transition,3
+447,Transition,2
+447,Canyon,3
+447,Pivot,4
+447,Specialized,4
+448,Trek,3
+448,Transition,3
+448,Forbidden,2
+448,Specialized,4
+448,Rocky Mountain,3
+449,Trek,3
+449,Specialized,3
+449,Santa Cruz,3
+449,Transition,4
+449,Forbidden,2
+450,Trek,3
+450,Canyon,4
+450,Commencal,3
+451,Commencal,3
+451,Canyon,3
+451,Transition,4
+451,Pivot,4
+452,Giant,3
+452,Pivot,3
+452,Transition,3
+453,Giant,3
+453,Transition,4
+453,Commencal,3
+453,Pivot,3
+453,Canyon,4
+454,Rocky Mountain,3
+454,Giant,4
+454,Transition,3
+455,Santa Cruz,3
+455,Transition,2
+455,Specialized,3
+455,Commencal,3
+455,Forbidden,3
+456,Canyon,3
+456,Specialized,3
+456,Pivot,3
+456,Santa Cruz,3
+456,Transition,3
+457,Commencal,3
+457,Santa Cruz,4
+457,Specialized,3
+457,Rocky Mountain,3
+458,Transition,3
+458,Specialized,4
+458,Santa Cruz,3
+459,Trek,5
+459,Canyon,3
+459,Giant,3
+459,Forbidden,2
+460,Trek,3
+460,Canyon,3
+460,Transition,4
+461,Trek,3
+461,Rocky Mountain,4
+461,Pivot,3
+461,Santa Cruz,4
+462,Commencal,3
+462,Pivot,3
+462,Trek,4
+463,Forbidden,3
+463,Trek,3
+463,Specialized,3
+464,Forbidden,3
+464,Santa Cruz,4
+464,Transition,4
+464,Specialized,3
+465,Santa Cruz,2
+465,Pivot,4
+465,Giant,3
+465,Transition,4
+465,Forbidden,3
+466,Giant,2
+466,Specialized,3
+466,Canyon,3
+466,Forbidden,3
+466,Trek,3
+467,Forbidden,3
+467,Canyon,3
+467,Specialized,4
+467,Giant,4
+468,Commencal,3
+468,Giant,4
+468,Transition,3
+468,Santa Cruz,3
+469,Specialized,3
+469,Transition,2
+469,Pivot,3
+470,Rocky Mountain,3
+470,Forbidden,3
+470,Specialized,3
+470,Giant,4
+470,Pivot,3
+471,Giant,3
+471,Specialized,3
+471,Trek,4
+472,Giant,4
+472,Canyon,3
+472,Santa Cruz,3
+472,Commencal,3
+473,Forbidden,3
+473,Santa Cruz,3
+473,Rocky Mountain,3
+473,Pivot,3
+473,Commencal,3
+474,Rocky Mountain,3
+474,Forbidden,4
+474,Transition,3
+475,Santa Cruz,4
+475,Transition,4
+475,Canyon,3
+475,Pivot,3
+476,Trek,3
+476,Specialized,4
+476,Rocky Mountain,4
+477,Commencal,3
+477,Specialized,3
+477,Trek,3
+477,Santa Cruz,3
+478,Commencal,3
+478,Santa Cruz,4
+478,Trek,3
+478,Canyon,3
+478,Forbidden,4
+479,Forbidden,3
+479,Commencal,2
+479,Rocky Mountain,3
+480,Forbidden,2
+480,Giant,4
+480,Trek,3
+480,Commencal,4
+480,Transition,4
+481,Trek,3
+481,Pivot,3
+481,Specialized,2
+482,Specialized,4
+482,Forbidden,3
+482,Canyon,3
+482,Rocky Mountain,3
+482,Trek,4
+483,Santa Cruz,4
+483,Commencal,4
+483,Giant,3
+483,Pivot,3
+483,Trek,4
+484,Rocky Mountain,4
+484,Commencal,3
+484,Transition,4
+484,Specialized,4
+485,Santa Cruz,2
+485,Rocky Mountain,2
+485,Commencal,3
+485,Trek,3
+485,Specialized,3
+486,Rocky Mountain,3
+486,Santa Cruz,4
+486,Forbidden,3
+486,Trek,2
+486,Canyon,3
+487,Transition,3
+487,Commencal,3
+487,Specialized,3
+488,Canyon,3
+488,Santa Cruz,3
+488,Pivot,3
+488,Trek,4
+489,Pivot,4
+489,Canyon,3
+489,Commencal,3
+490,Canyon,4
+490,Commencal,3
+490,Forbidden,4
+491,Santa Cruz,4
+491,Forbidden,3
+491,Transition,3
+491,Canyon,3
+492,Pivot,4
+492,Commencal,3
+492,Giant,3
+493,Pivot,3
+493,Rocky Mountain,3
+493,Giant,3
+493,Trek,3
+493,Forbidden,4
+494,Commencal,2
+494,Giant,3
+494,Forbidden,3
+494,Pivot,3
+494,Santa Cruz,3
+495,Santa Cruz,5
+495,Giant,4
+495,Commencal,3
+496,Transition,3
+496,Santa Cruz,4
+496,Specialized,3
+496,Forbidden,4
+496,Pivot,3
+497,Forbidden,2
+497,Commencal,3
+497,Canyon,4
+497,Transition,3
+497,Trek,3
+498,Canyon,3
+498,Giant,3
+498,Commencal,2
+498,Rocky Mountain,3
+498,Pivot,3
+499,Transition,3
+499,Trek,3
+499,Rocky Mountain,4
+499,Forbidden,3
+500,Pivot,4
+500,Forbidden,3
+500,Giant,4
+500,Transition,3
+500,Canyon,3
